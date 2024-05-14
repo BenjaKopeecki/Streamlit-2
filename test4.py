@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.title('Water Temperature')
 
 
-DATA_URL = ('c:/temp/waterquality.csv')
+DATA_URL = ('waterquality.csv')
 #Temp_COLUMN = DATA_URL['WaterTemp']
 
 @st.cache_data
